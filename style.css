@@ -27,21 +27,21 @@ html, body{
     justify-content: center;
     gap: 4px;
 }
-#nav h2{
+#nav-part1 h2{
     font-size: 17px;
     border: 1.5px solid black;
     padding: 5px 10px;
     border-radius: 50px;
     font-weight: 500;
 }
-#nav i{
+#nav-part1 i{
     font-size: 17px;
     border: 1.5px solid black;
     padding: 5px 10px;
     border-radius: 50px;
     font-weight: 500;
 }
-#nav h1{
+#nav-part2 h1{
     font-weight: 500;
     font-size: 30px;
     text-transform: uppercase;
